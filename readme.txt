@@ -1,8 +1,10 @@
 === Attachment Categories ===
 Contributors: Iain Porter
-Link: http://www.intraspin.com/
+Author URI: http://www.intraspin.com
+Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=iporter%40intraspin%2ecom&item_name=Media%20Categories%20Plugin&item_number=Support%20Open%20Source&no_shipping=0&no_note=1&tax=0&currency_code=GBP&lc=UK&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: attachments, categories, media, uploads
 Tested up to: 2.8.4
+Stable tag: trunk
 
 == Description ==
 
